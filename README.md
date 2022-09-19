@@ -32,3 +32,5 @@ Como color fondo: Blanco
 ![COLORES](./assets/images/COLORES(2).png)
 
 ### PROTOTIPOS
+
+![PROT.INDEX](./prototipos/Inicio.png)
