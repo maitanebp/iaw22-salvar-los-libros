@@ -25,9 +25,9 @@ Se me ocurrió que podiamos salvar los libros de la antigua biblioteca haciendo 
 
 ### COLORES 
 
-Como color principal: 
-Como color secundario:
-Como color fondo: 
+Como color principal: #415996 <br>
+Como color secundario: #2C3C66 <br>
+Como color fondo: Blanco
 
 ![COLORES](./assets/images/COLORES(2).png)
 
