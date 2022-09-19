@@ -4,6 +4,8 @@
 
 Se me ocurrió que podiamos salvar los libros de la antigua biblioteca haciendo esculturas/figuras de papel.
 
+<hr>
+
 ### FUENTES
 
 1. PassionOne
