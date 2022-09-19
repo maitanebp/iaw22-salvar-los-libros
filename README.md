@@ -16,7 +16,7 @@ Página de registro/login.
 
 ### ¿Como podemos salvar a los libros?
 
-Se me ocurrió que podiamos salvar los libros de la antigüa biblioteca haciendo esculturas/figuras de papel.
+Se me ocurrió que podiamos salvar los libros de la antigua biblioteca haciendo esculturas/figuras de papel.
 
 ### --> FUENTES UTILIZADAS
 
