@@ -1,0 +1,92 @@
+@font-face{
+    font-family: PassionOne;
+    src: url('./fonts/PassionOne-Regular.ttf');
+}
+@font-face{
+    font-family: PatrickHand;
+    src: url('./fonts/PatrickHand-Regular.ttf');
+}
+body{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    min-width: 600px;
+}
+:root{
+    --main-bg-color:rgb(52, 26, 97);
+    --secondary-bg-color:#a3b5e3;
+}
+.bordeletras{
+    -webkit-text-stroke: 0.1px black;
+    color: transparent;
+}
+.artes{
+    width:350px;
+    margin-right:100px;
+    float: right;
+    border-radius: 20px;
+    border-bottom: 5px solid var(--main-bg-color);
+    border-right: 4px solid var(--main-bg-color);
+
+}
+#barrasup {
+    background-color:rgb(224, 224, 224);
+    width:100%;
+    border-bottom: 4px solid;
+    border-color: var(--main-bg-color);
+    height: 80px;
+}
+#navegacion{
+    width:100%;
+    margin-left: auto;
+    text-align: center;
+    font-size:20px;
+    font-family: PassionOne;
+}
+#navegacion ul{
+    position: relative;
+    margin-left: 10px;
+    min-width: 600px;
+}
+#navegacion li{
+    list-style: none;
+    padding: 0 30px;
+    position: relative;
+    display: inline-block;
+    background-color: var(--secondary-bg-color);
+    padding: 5px 40px 5px 40px;
+}
+#logo{
+    height: 50px;
+    margin: 15px 10px 10px;
+    position:absolute;
+}
+#barrasup h1 {
+    color: rgb(52, 26, 97);
+    text-align: center;
+    position: relative;
+    margin-left: 5%;
+    font-family: PassionOne;
+    font-size: 300%;
+    margin-top: 0px;
+    padding-top: 15px;
+}
+.contenido{
+    margin-left:20px;
+    margin-bottom: 150px;
+}
+p {
+    font-family: PatrickHand;
+    text-align: justify;
+    width: 60%;
+}
+.contenido h2 {
+    font-family:PassionOne;
+    color: var(--secondary-bg-color);
+}
+
+hr {
+    width: 100%;
+    height: 1px;
+    background-color:black;
+}
