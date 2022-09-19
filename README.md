@@ -22,12 +22,9 @@ Como color fondo: Blanco
 ### PROTOTIPOS
 #### INICIO
 ![PROT.INDEX](./prototipos/Inicio.png)
-<hr>
 #### CONTACTOS
 ![PROT.CONTACTOS](./prototipos/contacto.png)
-<hr>
 #### ACTIVIDADES
 ![PROT.ACTIVIDADES](./prototipos/actividades.png)
-<hr>
 #### LOGIN
 ![PROT.LOGIN](./prototipos/login.png)
