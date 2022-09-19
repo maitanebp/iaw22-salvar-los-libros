@@ -32,8 +32,11 @@ Como color fondo: Blanco
 ![COLORES](./assets/images/COLORES(2).png)
 
 ### PROTOTIPOS
-
+#### INICIO
 ![PROT.INDEX](./prototipos/Inicio.png)
-![PROT.CONTACTOS](./prototipos/contactos.png)
+#### CONTACTOS
+![PROT.CONTACTOS](./prototipos/contacto.png)
+#### ACTIVIDADES
 ![PROT.ACTIVIDADES](./prototipos/actividades.png)
+#### LOGIN
 ![PROT.LOGIN](./prototipos/login.png)
