@@ -24,6 +24,7 @@ body{
     margin: 0;
     position: absolute;
     min-width: 600px;
+    background-color: #A3B5E3;
 }
 p {
     font-family: PatrickHand;
