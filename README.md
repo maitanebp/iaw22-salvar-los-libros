@@ -34,3 +34,6 @@ Como color fondo: Blanco
 ### PROTOTIPOS
 
 ![PROT.INDEX](./prototipos/Inicio.png)
+![PROT.CONTACTOS](./prototipos/contactos.png)
+![PROT.ACTIVIDADES](./prototipos/actividades.png)
+![PROT.LOGIN](./prototipos/login.png)
