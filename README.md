@@ -20,4 +20,4 @@ Se me ocurrió que podiamos salvar los libros de la antigüa biblioteca haciendo
 
 ### COLORES 
 
-![colores](./assets/images/COLORES(2).png)
+![colores](./assets/images/COLORES (2).png)
