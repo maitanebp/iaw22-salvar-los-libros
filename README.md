@@ -12,12 +12,21 @@ Página secundaria. Contendrá una tabla (rejilla) donde se muestran las activid
 Página contacto, Formulario de contacto donde se visualiza un mapa.
 Página de registro/login.
 
-# SALVEMOS A LOS LIBROS
+# --> SALVEMOS A LOS LIBROS
 
 ### ¿Como podemos salvar a los libros?
 
 Se me ocurrió que podiamos salvar los libros de la antigüa biblioteca haciendo esculturas/figuras de papel.
 
-### COLORES 
+### --> FUENTES UTILIZADAS
+
+1. PatrickHand (Normal)
+2. PassionOne (Títulos)
+
+###  --> COLORES 
 
 ![COLORES](./assets/images/COLORES(2).png)
+
+### --> PROTOTIPOS
+
+
