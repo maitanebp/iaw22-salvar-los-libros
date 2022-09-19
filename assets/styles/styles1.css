@@ -6,12 +6,37 @@
     font-family: PatrickHand;
     src: url('./fonts/PatrickHand-Regular.ttf');
 }
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 800,
+  'GRAD' 0,
+  'opsz' 48
+}
+b{
+    color: black;
+}
+i{
+    color:white;
+}
 body{
     padding: 0;
     margin: 0;
     position: absolute;
     min-width: 600px;
 }
+p {
+    font-family: PatrickHand;
+    text-align: justify;
+    width: 60%;
+    color: var(--secondary-bg-color);
+}
+hr {
+    width: 100%;
+    height: 1px;
+    background-color:black;
+}
+
 :root{
     --main-bg-color:rgb(52, 26, 97);
     --secondary-bg-color:#a3b5e3;
@@ -21,16 +46,15 @@ body{
     color: transparent;
 }
 .artes{
-    width:350px;
-    margin-right:100px;
+    width:150px;
+    margin-right:10%;
     float: right;
     border-radius: 20px;
-    border-bottom: 5px solid var(--main-bg-color);
-    border-right: 4px solid var(--main-bg-color);
-
+    border-bottom: 5px solid var(--secondary-bg-color);
+    border-right: 4px solid var(--secondary-bg-color);
 }
 #barrasup {
-    background-color:rgb(224, 224, 224);
+    background-color: var(--secondary-bg-color);
     width:100%;
     border-bottom: 4px solid;
     border-color: var(--main-bg-color);
@@ -56,11 +80,7 @@ body{
     background-color: var(--secondary-bg-color);
     padding: 5px 40px 5px 40px;
 }
-#logo{
-    height: 50px;
-    margin: 15px 10px 10px;
-    position:absolute;
-}
+
 #barrasup h1 {
     color: rgb(52, 26, 97);
     text-align: center;
@@ -71,22 +91,50 @@ body{
     margin-top: 0px;
     padding-top: 15px;
 }
-.contenido{
-    margin-left:20px;
-    margin-bottom: 150px;
+.contenedor{
+    background-color: var(--main-bg-color);
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
 }
-p {
-    font-family: PatrickHand;
-    text-align: justify;
-    width: 60%;
+.contenido{
+    padding-left:0;
 }
 .contenido h2 {
     font-family:PassionOne;
     color: var(--secondary-bg-color);
+    width: calc(100% -30px);
+    background-color: rgb(135, 203, 255);
+    padding-left: 30px;
 }
-
-hr {
+.contenido p {
+    margin-left: 70px;
+    padding-bottom: 30px;
+}
+.contenido a {
+    color: white;
+    font-size:20px;
+    font-family: PatrickHand;
+}
+h4{
+    padding-bottom: 30px;
+    padding-left: 40px;
+}
+#abajo{
+    background-color: var(--secondary-bg-color);
     width: 100%;
-    height: 1px;
-    background-color:black;
+    height: 12%;
+    position: absolute;
+}
+#subir{
+    width: 100px;
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-top: 20px;
+    float: right;
+}
+#logo{
+    width: 200px;
+    margin: 20px;
+    position:absolute;
 }
