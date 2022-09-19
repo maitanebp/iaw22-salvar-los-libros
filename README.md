@@ -18,6 +18,13 @@ Página de registro/login.
 
 Se me ocurrió que podiamos salvar los libros de la antigua biblioteca haciendo esculturas/figuras de papel.
 
+### FUENTES
+
+1. PassionOne
+2. PatrickHead
+
 ### COLORES 
 
-![COLORES](./assets/images/colores(2).png)
+![COLORES](./assets/images/COLORES(2).png)
+
+### PROTOTIPOS
