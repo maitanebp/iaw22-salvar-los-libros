@@ -1,10 +1,10 @@
 @font-face{
     font-family: PassionOne;
-    src: url('assets/fonts/PassionOne-Regular.ttf');
+    src: url('../fonts/PassionOne-Regular.ttf');
 }
 @font-face{
     font-family: PatrickHand;
-    src: url('assets/fonts/PatrickHand-Regular.ttf');
+    src: url('../fonts/PatrickHand-Regular.ttf');
 }
 .material-symbols-outlined {
   font-variation-settings:
